@@ -1,5 +1,5 @@
 #reminder to always use mamba activate fermi in terminal to set up environment 
-#and change it from base to fermi 
+#and to change it from base to fermi 
 
 import fermipy
 from fermipy.gtanalysis import GTAnalysis
