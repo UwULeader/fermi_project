@@ -1,0 +1,1049 @@
+nohup: ignoring input
+--------------------------------------------------
+>>> TARGETING WEEK: 82
+!!! Error: Could not find Week 82. Server might be busy. Skipping...
+--------------------------------------------------
+>>> TARGETING WEEK: 107
+Downloading lat_photon_weekly_w107_p305_v001.fits...
+--2026-04-07 21:26:21--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w107_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180233280 (172M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w107_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18%  810K 2m57s
+ 32768K ........ ........ ........ ........ 37%  885K 2m11s
+ 65536K ........ ........ ........ ........ 55% 1.10M 84s
+ 98304K ........ ........ ........ ........ 74% 1.07M 47s
+131072K ........ ........ ........ ........ 93% 1.25M 12s
+163840K ........ ...                       100% 1.25M=2m52s
+
+2026-04-07 21:29:10 (1.00 MB/s) - ‘./temp_raw/lat_photon_weekly_w107_p305_v001.fits’ saved [180233280/180233280]
+
+Extracting photons to ./flsf_photons/filtered_photons_w107.fits...
+Cleaning up temp file...
+Done with Week 107.
+--------------------------------------------------
+>>> TARGETING WEEK: 134
+Downloading lat_photon_weekly_w134_p305_v001.fits...
+--2026-04-07 21:29:13--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w134_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191033280 (182M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w134_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.53M 98s
+ 32768K ........ ........ ........ ........ 35% 1.34M 83s
+ 65536K ........ ........ ........ ........ 52% 1.19M 64s
+ 98304K ........ ........ ........ ........ 70% 1.42M 40s
+131072K ........ ........ ........ ........ 87% 1.27M 17s
+163840K ........ ........ ......           100% 1.20M=2m18s
+
+2026-04-07 21:31:30 (1.32 MB/s) - ‘./temp_raw/lat_photon_weekly_w134_p305_v001.fits’ saved [191033280/191033280]
+
+Extracting photons to ./flsf_photons/filtered_photons_w134.fits...
+Cleaning up temp file...
+Done with Week 134.
+--------------------------------------------------
+>>> TARGETING WEEK: 142
+Downloading lat_photon_weekly_w142_p305_v001.fits...
+--2026-04-07 21:31:33--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w142_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185823360 (177M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w142_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.09M 2m13s
+ 32768K ........ ........ ........ ........ 36% 1.54M 89s
+ 65536K ........ ........ ........ ........ 54% 1.21M 65s
+ 98304K ........ ........ ........ ........ 72% 1.59M 37s
+131072K ........ ........ ........ ........ 90% 1.11M 14s
+163840K ........ ........ .                100% 1.53M=2m17s
+
+2026-04-07 21:33:47 (1.29 MB/s) - ‘./temp_raw/lat_photon_weekly_w142_p305_v001.fits’ saved [185823360/185823360]
+
+Extracting photons to ./flsf_photons/filtered_photons_w142.fits...
+Cleaning up temp file...
+Done with Week 142.
+--------------------------------------------------
+>>> TARGETING WEEK: 144
+Downloading lat_photon_weekly_w144_p305_v001.fits...
+--2026-04-07 21:33:50--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w144_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185541120 (177M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w144_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.35M 1m47s
+ 32768K ........ ........ ........ ........ 36% 1.47M 80s
+ 65536K ........ ........ ........ ........ 54% 1.63M 55s
+ 98304K ........ ........ ........ ........ 72% 1.53M 33s
+131072K ........ ........ ........ ........ 90% 1.63M 11s
+163840K ........ ........                  100% 1.62M=1m56s
+
+2026-04-07 21:35:45 (1.52 MB/s) - ‘./temp_raw/lat_photon_weekly_w144_p305_v001.fits’ saved [185541120/185541120]
+
+Extracting photons to ./flsf_photons/filtered_photons_w144.fits...
+Cleaning up temp file...
+Done with Week 144.
+--------------------------------------------------
+>>> TARGETING WEEK: 150
+Downloading lat_photon_weekly_w150_p305_v001.fits...
+--2026-04-07 21:35:47--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w150_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 603633600 (576M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w150_p305_v001.fits’
+
+     0K ........ ........ ........ ........  5% 1.54M 5m53s
+ 32768K ........ ........ ........ ........ 11% 1.65M 5m21s
+ 65536K ........ ........ ........ ........ 16% 1.60M 5m1s
+ 98304K ........ ........ ........ ........ 22% 1.60M 4m40s
+131072K ........ ........ ........ ........ 27% 1.62M 4m19s
+163840K ........ ........ ........ ........ 33% 1.61M 3m59s
+196608K ........ ........ ........ ........ 38% 1.61M 3m39s
+229376K ........ ........ ........ ........ 44% 1.61M 3m19s
+262144K ........ ........ ........ ........ 50% 1.58M 3m0s
+294912K ........ ........ ........ ........ 55% 1.54M 2m40s
+327680K ........ ........ ........ ........ 61% 1.61M 2m20s
+360448K ........ ........ ........ ........ 66% 1.57M 2m0s
+393216K ........ ........ ........ ........ 72% 1.59M 1m40s
+425984K ........ ........ ........ ........ 77% 1.61M 80s
+458752K ........ ........ ........ ........ 83% 1.59M 60s
+491520K ........ ........ ........ ........ 88% 1.57M 40s
+524288K ........ ........ ........ ........ 94% 1.59M 20s
+557056K ........ ........ ........ ....... 100% 1.59M=6m1s
+
+2026-04-07 21:41:41 (1.59 MB/s) - ‘./temp_raw/lat_photon_weekly_w150_p305_v001.fits’ saved [603633600/603633600]
+
+Extracting photons to ./flsf_photons/filtered_photons_w150.fits...
+Cleaning up temp file...
+Done with Week 150.
+--------------------------------------------------
+>>> TARGETING WEEK: 164
+Downloading lat_photon_weekly_w164_p305_v001.fits...
+--2026-04-07 21:41:48--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w164_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276569280 (264M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w164_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 12% 1.20M 3m12s
+ 32768K ........ ........ ........ ........ 24% 1.35M 2m37s
+ 65536K ........ ........ ........ ........ 36% 1.50M 2m5s
+ 98304K ........ ........ ........ ........ 48% 1.51M 98s
+131072K ........ ........ ........ ........ 60% 1.56M 74s
+163840K ........ ........ ........ ........ 72% 1.49M 50s
+196608K ........ ........ ........ ........ 84% 1.55M 28s
+229376K ........ ........ ........ ........ 97% 1.59M 5s
+262144K .......                            100% 1.61M=3m0s
+
+2026-04-07 21:44:44 (1.46 MB/s) - ‘./temp_raw/lat_photon_weekly_w164_p305_v001.fits’ saved [276569280/276569280]
+
+Extracting photons to ./flsf_photons/filtered_photons_w164.fits...
+Cleaning up temp file...
+Done with Week 164.
+--------------------------------------------------
+>>> TARGETING WEEK: 168
+Downloading lat_photon_weekly_w168_p305_v001.fits...
+--2026-04-07 21:44:49--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w168_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265622400 (253M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w168_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 12% 1.58M 2m20s
+ 32768K ........ ........ ........ ........ 25% 1.59M 1m59s
+ 65536K ........ ........ ........ ........ 37% 1.60M 99s
+ 98304K ........ ........ ........ ........ 50% 1.59M 79s
+131072K ........ ........ ........ ........ 63% 1.51M 59s
+163840K ........ ........ ........ ........ 75% 1.54M 39s
+196608K ........ ........ ........ ........ 88% 1.53M 19s
+229376K ........ ........ ........ .....   100% 1.53M=2m43s
+
+2026-04-07 21:47:28 (1.56 MB/s) - ‘./temp_raw/lat_photon_weekly_w168_p305_v001.fits’ saved [265622400/265622400]
+
+Extracting photons to ./flsf_photons/filtered_photons_w168.fits...
+Cleaning up temp file...
+Done with Week 168.
+--------------------------------------------------
+>>> TARGETING WEEK: 170
+Downloading lat_photon_weekly_w170_p305_v001.fits...
+--2026-04-07 21:47:33--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w170_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338924160 (323M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w170_p305_v001.fits’
+
+     0K ........ ........ ........ ........  9% 1.29M 3m45s
+ 32768K ........ ........ ........ ........ 19% 1.58M 3m2s
+ 65536K ........ ........ ........ ........ 29% 1.55M 2m35s
+ 98304K ........ ........ ........ ........ 39% 1.54M 2m12s
+131072K ........ ........ ........ ........ 49% 1.52M 1m50s
+163840K ........ ........ ........ ........ 59% 1.57M 87s
+196608K ........ ........ ........ ........ 69% 1.59M 66s
+229376K ........ ........ ........ ........ 79% 1.59M 44s
+262144K ........ ........ ........ ........ 89% 1.61M 23s
+294912K ........ ........ ........ ........ 99% 1.53M 2s
+327680K ...                                100% 1.52M=3m31s
+
+2026-04-07 21:51:00 (1.53 MB/s) - ‘./temp_raw/lat_photon_weekly_w170_p305_v001.fits’ saved [338924160/338924160]
+
+Extracting photons to ./flsf_photons/filtered_photons_w170.fits...
+Cleaning up temp file...
+Done with Week 170.
+--------------------------------------------------
+>>> TARGETING WEEK: 185
+Downloading lat_photon_weekly_w185_p305_v001.fits...
+--2026-04-07 21:51:05--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w185_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178689600 (170M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w185_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.41M 98s
+ 32768K ........ ........ ........ ........ 37% 1.58M 71s
+ 65536K ........ ........ ........ ........ 56% 1.25M 53s
+ 98304K ........ ........ ........ ........ 75% 1.54M 30s
+131072K ........ ........ ........ ........ 93% 1.58M 7s
+163840K ........ ..                        100% 1.55M=1m56s
+
+2026-04-07 21:53:00 (1.47 MB/s) - ‘./temp_raw/lat_photon_weekly_w185_p305_v001.fits’ saved [178689600/178689600]
+
+Extracting photons to ./flsf_photons/filtered_photons_w185.fits...
+Cleaning up temp file...
+Done with Week 185.
+--------------------------------------------------
+>>> TARGETING WEEK: 187
+Downloading lat_photon_weekly_w187_p305_v001.fits...
+--2026-04-07 21:53:04--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w187_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186206400 (178M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w187_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.52M 96s
+ 32768K ........ ........ ........ ........ 36% 1.61M 73s
+ 65536K ........ ........ ........ ........ 54% 1.61M 52s
+ 98304K ........ ........ ........ ........ 72% 1.58M 31s
+131072K ........ ........ ........ ........ 90% 1.59M 11s
+163840K ........ ........ .                100% 1.59M=1m52s
+
+2026-04-07 21:54:54 (1.58 MB/s) - ‘./temp_raw/lat_photon_weekly_w187_p305_v001.fits’ saved [186206400/186206400]
+
+Extracting photons to ./flsf_photons/filtered_photons_w187.fits...
+Cleaning up temp file...
+Done with Week 187.
+--------------------------------------------------
+>>> TARGETING WEEK: 194
+Downloading lat_photon_weekly_w194_p305_v001.fits...
+--2026-04-07 21:54:57--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w194_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182534400 (174M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w194_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.46M 97s
+ 32768K ........ ........ ........ ........ 36% 1.58M 73s
+ 65536K ........ ........ ........ ........ 55% 1.57M 51s
+ 98304K ........ ........ ........ ........ 73% 1.56M 30s
+131072K ........ ........ ........ ........ 91% 1.56M 9s
+163840K ........ ......                    100% 1.58M=1m52s
+
+2026-04-07 21:56:48 (1.55 MB/s) - ‘./temp_raw/lat_photon_weekly_w194_p305_v001.fits’ saved [182534400/182534400]
+
+Extracting photons to ./flsf_photons/filtered_photons_w194.fits...
+Cleaning up temp file...
+Done with Week 194.
+--------------------------------------------------
+>>> TARGETING WEEK: 195
+Downloading lat_photon_weekly_w195_p305_v001.fits...
+--2026-04-07 21:56:50--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w195_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284575680 (271M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w195_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 11% 1.57M 2m33s
+ 32768K ........ ........ ........ ........ 23% 1.59M 2m11s
+ 65536K ........ ........ ........ ........ 35% 1.54M 1m52s
+ 98304K ........ ........ ........ ........ 47% 1.55M 92s
+131072K ........ ........ ........ ........ 58% 1.51M 72s
+163840K ........ ........ ........ ........ 70% 1.56M 51s
+196608K ........ ........ ........ ........ 82% 1.57M 30s
+229376K ........ ........ ........ ........ 94% 1.58M 10s
+262144K ........ .......                   100% 1.58M=2m54s
+
+2026-04-07 21:59:41 (1.56 MB/s) - ‘./temp_raw/lat_photon_weekly_w195_p305_v001.fits’ saved [284575680/284575680]
+
+Extracting photons to ./flsf_photons/filtered_photons_w195.fits...
+Cleaning up temp file...
+Done with Week 195.
+--------------------------------------------------
+>>> TARGETING WEEK: 203
+Downloading lat_photon_weekly_w203_p305_v001.fits...
+--2026-04-07 21:59:44--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w203_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188458560 (180M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w203_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.50M 99s
+ 32768K ........ ........ ........ ........ 35% 1.53M 76s
+ 65536K ........ ........ ........ ........ 53% 1.45M 56s
+ 98304K ........ ........ ........ ........ 71% 1.53M 34s
+131072K ........ ........ ........ ........ 89% 1.40M 13s
+163840K ........ ........ ...              100% 1.21M=2m4s
+
+2026-04-07 22:01:46 (1.45 MB/s) - ‘./temp_raw/lat_photon_weekly_w203_p305_v001.fits’ saved [188458560/188458560]
+
+Extracting photons to ./flsf_photons/filtered_photons_w203.fits...
+Cleaning up temp file...
+Done with Week 203.
+--------------------------------------------------
+>>> TARGETING WEEK: 211
+Downloading lat_photon_weekly_w211_p305_v001.fits...
+--2026-04-07 22:01:51--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w211_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189043200 (180M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w211_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.18M 2m6s
+ 32768K ........ ........ ........ ........ 35% 1.23M 96s
+ 65536K ........ ........ ........ ........ 53% 1.47M 66s
+ 98304K ........ ........ ........ ........ 70% 1.44M 40s
+131072K ........ ........ ........ ........ 88% 1.08M 16s
+163840K ........ ........ ....             100%  982K=2m28s
+
+2026-04-07 22:04:16 (1.22 MB/s) - ‘./temp_raw/lat_photon_weekly_w211_p305_v001.fits’ saved [189043200/189043200]
+
+Extracting photons to ./flsf_photons/filtered_photons_w211.fits...
+Cleaning up temp file...
+Done with Week 211.
+--------------------------------------------------
+>>> TARGETING WEEK: 212
+Downloading lat_photon_weekly_w212_p305_v001.fits...
+--2026-04-07 22:04:20--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w212_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305271360 (291M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w212_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10%  766K 5m46s
+ 32768K ........ ........ ........ ........ 21%  758K 5m5s
+ 65536K ........ ........ ........ ........ 32% 1.03M 3m58s
+ 98304K ........ ........ ........ ........ 43% 1.11M 3m6s
+131072K ........ ........ ........ ........ 54% 1.35M 2m19s
+163840K ........ ........ ........ ........ 65% 1.22M 1m41s
+196608K ........ ........ ........ ........ 76% 1.23M 66s
+229376K ........ ........ ........ ........ 87% 1.33M 34s
+262144K ........ ........ ........ ........ 98% 1.07M 3s
+294912K ...                                100%  734K=4m40s
+
+2026-04-07 22:08:55 (1.04 MB/s) - ‘./temp_raw/lat_photon_weekly_w212_p305_v001.fits’ saved [305271360/305271360]
+
+Extracting photons to ./flsf_photons/filtered_photons_w212.fits...
+Cleaning up temp file...
+Done with Week 212.
+--------------------------------------------------
+>>> TARGETING WEEK: 214
+Downloading lat_photon_weekly_w214_p305_v001.fits...
+--2026-04-07 22:08:57--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w214_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342936000 (327M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w214_p305_v001.fits’
+
+     0K ........ ........ ........ ........  9% 1.19M 4m9s
+ 32768K ........ ........ ........ ........ 19% 1.36M 3m27s
+ 65536K ........ ........ ........ ........ 29% 1.51M 2m52s
+ 98304K ........ ........ ........ ........ 39% 1.46M 2m25s
+131072K ........ ........ ........ ........ 48% 1.48M 2m0s
+163840K ........ ........ ........ ........ 58% 1.45M 97s
+196608K ........ ........ ........ ........ 68% 1.36M 74s
+229376K ........ ........ ........ ........ 78% 1.47M 51s
+262144K ........ ........ ........ ........ 88% 1.39M 28s
+294912K ........ ........ ........ ........ 97% 1.35M 5s
+327680K .......                            100% 1.50M=3m54s
+
+2026-04-07 22:12:46 (1.40 MB/s) - ‘./temp_raw/lat_photon_weekly_w214_p305_v001.fits’ saved [342936000/342936000]
+
+Extracting photons to ./flsf_photons/filtered_photons_w214.fits...
+Cleaning up temp file...
+Done with Week 214.
+--------------------------------------------------
+>>> TARGETING WEEK: 217
+Downloading lat_photon_weekly_w217_p305_v001.fits...
+--2026-04-07 22:12:52--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w217_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187562880 (179M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w217_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.01M 2m26s
+ 32768K ........ ........ ........ ........ 35% 1.00M 1m55s
+ 65536K ........ ........ ........ ........ 53% 1.07M 81s
+ 98304K ........ ........ ........ ........ 71% 1.27M 47s
+131072K ........ ........ ........ ........ 89% 1.37M 17s
+163840K ........ ........ ..               100% 1.40M=2m36s
+
+2026-04-07 22:15:25 (1.15 MB/s) - ‘./temp_raw/lat_photon_weekly_w217_p305_v001.fits’ saved [187562880/187562880]
+
+Extracting photons to ./flsf_photons/filtered_photons_w217.fits...
+Cleaning up temp file...
+Done with Week 217.
+--------------------------------------------------
+>>> TARGETING WEEK: 219
+Downloading lat_photon_weekly_w219_p305_v001.fits...
+--2026-04-07 22:15:31--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w219_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 336853440 (321M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w219_p305_v001.fits’
+
+     0K ........ ........ ........ ........  9% 1.43M 3m22s
+ 32768K ........ ........ ........ ........ 19% 1.35M 3m5s
+ 65536K ........ ........ ........ ........ 29% 1.46M 2m40s
+ 98304K ........ ........ ........ ........ 39% 1.56M 2m14s
+131072K ........ ........ ........ ........ 49% 1.57M 1m50s
+163840K ........ ........ ........ ........ 59% 1.55M 87s
+196608K ........ ........ ........ ........ 69% 1.24M 68s
+229376K ........ ........ ........ ........ 79% 1.56M 45s
+262144K ........ ........ ........ ........ 89% 1.48M 23s
+294912K ........ ........ ........ ........ 99% 1.21M 1s
+327680K .                                  100%  566K=3m46s
+
+2026-04-07 22:19:12 (1.42 MB/s) - ‘./temp_raw/lat_photon_weekly_w219_p305_v001.fits’ saved [336853440/336853440]
+
+Extracting photons to ./flsf_photons/filtered_photons_w219.fits...
+Cleaning up temp file...
+Done with Week 219.
+--------------------------------------------------
+>>> TARGETING WEEK: 222
+Downloading lat_photon_weekly_w222_p305_v001.fits...
+--2026-04-07 22:19:16--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w222_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177557760 (169M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w222_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.34M 1m42s
+ 32768K ........ ........ ........ ........ 37% 1.22M 82s
+ 65536K ........ ........ ........ ........ 56% 1.50M 55s
+ 98304K ........ ........ ........ ........ 75% 1.30M 31s
+131072K ........ ........ ........ ........ 94% 1.49M 7s
+163840K ........ .                         100% 1.60M=2m3s
+
+2026-04-07 22:21:17 (1.37 MB/s) - ‘./temp_raw/lat_photon_weekly_w222_p305_v001.fits’ saved [177557760/177557760]
+
+Extracting photons to ./flsf_photons/filtered_photons_w222.fits...
+Cleaning up temp file...
+Done with Week 222.
+--------------------------------------------------
+>>> TARGETING WEEK: 230
+Downloading lat_photon_weekly_w230_p305_v001.fits...
+--2026-04-07 22:21:21--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w230_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219110400 (209M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w230_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 15% 1.22M 2m25s
+ 32768K ........ ........ ........ ........ 30% 1.60M 1m45s
+ 65536K ........ ........ ........ ........ 45% 1.20M 86s
+ 98304K ........ ........ ........ ........ 61%  937K 68s
+131072K ........ ........ ........ ........ 76% 1.40M 40s
+163840K ........ ........ ........ ........ 91% 1.48M 13s
+196608K ........ ........                  100% 1.56M=2m43s
+
+2026-04-07 22:24:02 (1.28 MB/s) - ‘./temp_raw/lat_photon_weekly_w230_p305_v001.fits’ saved [219110400/219110400]
+
+Extracting photons to ./flsf_photons/filtered_photons_w230.fits...
+Cleaning up temp file...
+Done with Week 230.
+--------------------------------------------------
+>>> TARGETING WEEK: 256
+Downloading lat_photon_weekly_w256_p305_v001.fits...
+--2026-04-07 22:24:05--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w256_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230135040 (219M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w256_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 14% 1.03M 3m2s
+ 32768K ........ ........ ........ ........ 29% 1.51M 2m7s
+ 65536K ........ ........ ........ ........ 43% 1.53M 94s
+ 98304K ........ ........ ........ ........ 58% 1.61M 67s
+131072K ........ ........ ........ ........ 72% 1.59M 42s
+163840K ........ ........ ........ ........ 87% 1.45M 19s
+196608K ........ ........ ........ ...     100% 1.57M=2m33s
+
+2026-04-07 22:26:36 (1.44 MB/s) - ‘./temp_raw/lat_photon_weekly_w256_p305_v001.fits’ saved [230135040/230135040]
+
+Extracting photons to ./flsf_photons/filtered_photons_w256.fits...
+Cleaning up temp file...
+Done with Week 256.
+--------------------------------------------------
+>>> TARGETING WEEK: 260
+Downloading lat_photon_weekly_w260_p305_v001.fits...
+--2026-04-07 22:26:42--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w260_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208800000 (199M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w260_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 16% 1.13M 2m27s
+ 32768K ........ ........ ........ ........ 32% 1.60M 1m42s
+ 65536K ........ ........ ........ ........ 48% 1.54M 74s
+ 98304K ........ ........ ........ ........ 64% 1.59M 50s
+131072K ........ ........ ........ ........ 80% 1.47M 27s
+163840K ........ ........ ........ ........ 96% 1.53M 5s
+196608K .......                            100% 1.63M=2m16s
+
+2026-04-07 22:28:57 (1.46 MB/s) - ‘./temp_raw/lat_photon_weekly_w260_p305_v001.fits’ saved [208800000/208800000]
+
+Extracting photons to ./flsf_photons/filtered_photons_w260.fits...
+Cleaning up temp file...
+Done with Week 260.
+--------------------------------------------------
+>>> TARGETING WEEK: 275
+Downloading lat_photon_weekly_w275_p305_v001.fits...
+--2026-04-07 22:29:00--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w275_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206619840 (197M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w275_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 16% 1.54M 1m47s
+ 32768K ........ ........ ........ ........ 32% 1.48M 88s
+ 65536K ........ ........ ........ ........ 48% 1.22M 72s
+ 98304K ........ ........ ........ ........ 64%  812K 59s
+131072K ........ ........ ........ ........ 81% 1.51M 30s
+163840K ........ ........ ........ ........ 97% 1.33M 4s
+196608K .....                              100% 1.52M=2m38s
+
+2026-04-07 22:31:37 (1.25 MB/s) - ‘./temp_raw/lat_photon_weekly_w275_p305_v001.fits’ saved [206619840/206619840]
+
+Extracting photons to ./flsf_photons/filtered_photons_w275.fits...
+Cleaning up temp file...
+Done with Week 275.
+--------------------------------------------------
+>>> TARGETING WEEK: 280
+Downloading lat_photon_weekly_w280_p305_v001.fits...
+--2026-04-07 22:31:39--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w280_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233314560 (223M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w280_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 14% 1.54M 2m4s
+ 32768K ........ ........ ........ ........ 28% 1.63M 1m40s
+ 65536K ........ ........ ........ ........ 43% 1.31M 85s
+ 98304K ........ ........ ........ ........ 57% 1.63M 62s
+131072K ........ ........ ........ ........ 71% 1.36M 42s
+163840K ........ ........ ........ ........ 86% 1.29M 21s
+196608K ........ ........ ........ ......  100% 1.49M=2m33s
+
+2026-04-07 22:34:13 (1.45 MB/s) - ‘./temp_raw/lat_photon_weekly_w280_p305_v001.fits’ saved [233314560/233314560]
+
+Extracting photons to ./flsf_photons/filtered_photons_w280.fits...
+Cleaning up temp file...
+Done with Week 280.
+--------------------------------------------------
+>>> TARGETING WEEK: 281
+Downloading lat_photon_weekly_w281_p305_v001.fits...
+--2026-04-07 22:34:16--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w281_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 482160960 (460M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w281_p305_v001.fits’
+
+     0K ........ ........ ........ ........  6% 1.53M 4m39s
+ 32768K ........ ........ ........ ........ 13% 1.35M 4m36s
+ 65536K ........ ........ ........ ........ 20% 1018K 4m51s
+ 98304K ........ ........ ........ ........ 27%  874K 4m56s
+131072K ........ ........ ........ ........ 34%  658K 5m7s
+163840K ........ ........ ........ ........ 41%  975K 4m36s
+196608K ........ ........ ........ ........ 48% 1.59M 3m49s
+229376K ........ ........ ........ ........ 55% 1.46M 3m11s
+262144K ........ ........ ........ ........ 62% 1.33M 2m37s
+294912K ........ ........ ........ ........ 69% 1.35M 2m6s
+327680K ........ ........ ........ ........ 76% 1.42M 95s
+360448K ........ ........ ........ ........ 83% 1.19M 67s
+393216K ........ ........ ........ ........ 90% 1.04M 39s
+425984K ........ ........ ........ ........ 97% 1.28M 10s
+458752K ........ ...                       100% 1.39M=6m41s
+
+2026-04-07 22:40:58 (1.15 MB/s) - ‘./temp_raw/lat_photon_weekly_w281_p305_v001.fits’ saved [482160960/482160960]
+
+Extracting photons to ./flsf_photons/filtered_photons_w281.fits...
+Cleaning up temp file...
+Done with Week 281.
+--------------------------------------------------
+>>> TARGETING WEEK: 285
+Downloading lat_photon_weekly_w285_p305_v001.fits...
+--2026-04-07 22:41:02--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w285_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192018240 (183M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w285_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.42M 1m46s
+ 32768K ........ ........ ........ ........ 34% 1.61M 79s
+ 65536K ........ ........ ........ ........ 52% 1.62M 56s
+ 98304K ........ ........ ........ ........ 69% 1.62M 35s
+131072K ........ ........ ........ ........ 87% 1.60M 15s
+163840K ........ ........ .......          100% 1.44M=1m58s
+
+2026-04-07 22:43:01 (1.55 MB/s) - ‘./temp_raw/lat_photon_weekly_w285_p305_v001.fits’ saved [192018240/192018240]
+
+Extracting photons to ./flsf_photons/filtered_photons_w285.fits...
+Cleaning up temp file...
+Done with Week 285.
+--------------------------------------------------
+>>> TARGETING WEEK: 287
+Downloading lat_photon_weekly_w287_p305_v001.fits...
+--2026-04-07 22:43:06--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w287_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190221120 (181M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w287_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.03M 2m25s
+ 32768K ........ ........ ........ ........ 35% 1.31M 1m42s
+ 65536K ........ ........ ........ ........ 52% 1.38M 70s
+ 98304K ........ ........ ........ ........ 70% 1.47M 42s
+131072K ........ ........ ........ ........ 88% 1.60M 16s
+163840K ........ ........ .....            100% 1.40M=2m16s
+
+2026-04-07 22:45:22 (1.34 MB/s) - ‘./temp_raw/lat_photon_weekly_w287_p305_v001.fits’ saved [190221120/190221120]
+
+Extracting photons to ./flsf_photons/filtered_photons_w287.fits...
+Cleaning up temp file...
+Done with Week 287.
+--------------------------------------------------
+>>> TARGETING WEEK: 297
+Downloading lat_photon_weekly_w297_p305_v001.fits...
+--2026-04-07 22:45:26--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w297_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319521600 (305M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w297_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10% 1.21M 3m46s
+ 32768K ........ ........ ........ ........ 21% 1.65M 2m53s
+ 65536K ........ ........ ........ ........ 31% 1.64M 2m22s
+ 98304K ........ ........ ........ ........ 42% 1.64M 1m57s
+131072K ........ ........ ........ ........ 52% 1.62M 95s
+163840K ........ ........ ........ ........ 63% 1.60M 73s
+196608K ........ ........ ........ ........ 73% 1.60M 52s
+229376K ........ ........ ........ ........ 84% 1.68M 31s
+262144K ........ ........ ........ ........ 94% 1.64M 11s
+294912K ........ ........                  100% 1.58M=3m14s
+
+2026-04-07 22:48:40 (1.57 MB/s) - ‘./temp_raw/lat_photon_weekly_w297_p305_v001.fits’ saved [319521600/319521600]
+
+Extracting photons to ./flsf_photons/filtered_photons_w297.fits...
+Cleaning up temp file...
+Done with Week 297.
+--------------------------------------------------
+>>> TARGETING WEEK: 298
+Downloading lat_photon_weekly_w298_p305_v001.fits...
+--2026-04-07 22:48:43--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w298_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323127360 (308M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w298_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10% 1.11M 4m10s
+ 32768K ........ ........ ........ ........ 20% 1.28M 3m26s
+ 65536K ........ ........ ........ ........ 31% 1.45M 2m48s
+ 98304K ........ ........ ........ ........ 41% 1.21M 2m24s
+131072K ........ ........ ........ ........ 51% 1.48M 1m55s
+163840K ........ ........ ........ ........ 62% 1.32M 90s
+196608K ........ ........ ........ ........ 72% 1.26M 65s
+229376K ........ ........ ........ ........ 83% 1.41M 40s
+262144K ........ ........ ........ ........ 93% 1.44M 15s
+294912K ........ ........ ....             100% 1.41M=3m53s
+
+2026-04-07 22:52:36 (1.32 MB/s) - ‘./temp_raw/lat_photon_weekly_w298_p305_v001.fits’ saved [323127360/323127360]
+
+Extracting photons to ./flsf_photons/filtered_photons_w298.fits...
+Cleaning up temp file...
+Done with Week 298.
+--------------------------------------------------
+>>> TARGETING WEEK: 301
+Downloading lat_photon_weekly_w301_p305_v001.fits...
+--2026-04-07 22:52:42--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w301_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 367194240 (350M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w301_p305_v001.fits’
+
+     0K ........ ........ ........ ........  9% 1.47M 3m36s
+ 32768K ........ ........ ........ ........ 18% 1.53M 3m11s
+ 65536K ........ ........ ........ ........ 27% 1.57M 2m47s
+ 98304K ........ ........ ........ ........ 36% 1.41M 2m29s
+131072K ........ ........ ........ ........ 45% 1.61M 2m6s
+163840K ........ ........ ........ ........ 54% 1.66M 1m43s
+196608K ........ ........ ........ ........ 63% 1.63M 81s
+229376K ........ ........ ........ ........ 73% 1.61M 61s
+262144K ........ ........ ........ ........ 82% 1.45M 40s
+294912K ........ ........ ........ ........ 91% 1.59M 19s
+327680K ........ ........ ........ ......  100% 1.54M=3m46s
+
+2026-04-07 22:56:28 (1.55 MB/s) - ‘./temp_raw/lat_photon_weekly_w301_p305_v001.fits’ saved [367194240/367194240]
+
+Extracting photons to ./flsf_photons/filtered_photons_w301.fits...
+Cleaning up temp file...
+Done with Week 301.
+--------------------------------------------------
+>>> TARGETING WEEK: 313
+Downloading lat_photon_weekly_w313_p305_v001.fits...
+--2026-04-07 22:56:34--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w313_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285552000 (272M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w313_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 11% 1.50M 2m40s
+ 32768K ........ ........ ........ ........ 23% 1.60M 2m14s
+ 65536K ........ ........ ........ ........ 35% 1.39M 1m58s
+ 98304K ........ ........ ........ ........ 47% 1.58M 95s
+131072K ........ ........ ........ ........ 58% 1.53M 74s
+163840K ........ ........ ........ ........ 70% 1.53M 53s
+196608K ........ ........ ........ ........ 82% 1.64M 31s
+229376K ........ ........ ........ ........ 94% 1.14M 11s
+262144K ........ ........                  100% 1.31M=3m6s
+
+2026-04-07 22:59:41 (1.46 MB/s) - ‘./temp_raw/lat_photon_weekly_w313_p305_v001.fits’ saved [285552000/285552000]
+
+Extracting photons to ./flsf_photons/filtered_photons_w313.fits...
+Cleaning up temp file...
+Done with Week 313.
+--------------------------------------------------
+>>> TARGETING WEEK: 319
+Downloading lat_photon_weekly_w319_p305_v001.fits...
+--2026-04-07 22:59:46--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w319_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326041920 (311M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w319_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10%  851K 5m36s
+ 32768K ........ ........ ........ ........ 20% 1011K 4m34s
+ 65536K ........ ........ ........ ........ 30%  622K 4m37s
+ 98304K ........ ........ ........ ........ 41%  855K 3m51s
+131072K ........ ........ ........ ........ 51%  929K 3m6s
+163840K ........ ........ ........ ........ 61% 1003K 2m22s
+196608K ........ ........ ........ ........ 72%  991K 1m42s
+229376K ........ ........ ........ ........ 82% 1.13M 62s
+262144K ........ ........ ........ ........ 92% 1.36M 25s
+294912K ........ ........ ......           100%  888K=5m41s
+
+2026-04-07 23:05:28 (933 KB/s) - ‘./temp_raw/lat_photon_weekly_w319_p305_v001.fits’ saved [326041920/326041920]
+
+Extracting photons to ./flsf_photons/filtered_photons_w319.fits...
+Cleaning up temp file...
+Done with Week 319.
+--------------------------------------------------
+>>> TARGETING WEEK: 321
+Downloading lat_photon_weekly_w321_p305_v001.fits...
+--2026-04-07 23:05:33--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w321_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332300160 (317M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w321_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10%  944K 5m9s
+ 32768K ........ ........ ........ ........ 20%  888K 4m43s
+ 65536K ........ ........ ........ ........ 30%  822K 4m16s
+ 98304K ........ ........ ........ ........ 40% 1004K 3m33s
+131072K ........ ........ ........ ........ 50% 1.41M 2m44s
+163840K ........ ........ ........ ........ 60% 1.46M 2m3s
+196608K ........ ........ ........ ........ 70% 1.50M 87s
+229376K ........ ........ ........ ........ 80% 1.08M 57s
+262144K ........ ........ ........ ........ 90% 1.47M 26s
+294912K ........ ........ ........ ....    100% 1.57M=4m40s
+
+2026-04-07 23:10:13 (1.13 MB/s) - ‘./temp_raw/lat_photon_weekly_w321_p305_v001.fits’ saved [332300160/332300160]
+
+Extracting photons to ./flsf_photons/filtered_photons_w321.fits...
+Cleaning up temp file...
+Done with Week 321.
+--------------------------------------------------
+>>> TARGETING WEEK: 324
+Downloading lat_photon_weekly_w324_p305_v001.fits...
+--2026-04-07 23:10:18--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w324_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 494280000 (471M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w324_p305_v001.fits’
+
+     0K ........ ........ ........ ........  6% 1.59M 4m36s
+ 32768K ........ ........ ........ ........ 13% 1.61M 4m14s
+ 65536K ........ ........ ........ ........ 20% 1.61M 3m54s
+ 98304K ........ ........ ........ ........ 27% 1.57M 3m35s
+131072K ........ ........ ........ ........ 33% 1.66M 3m13s
+163840K ........ ........ ........ ........ 40% 1.65M 2m53s
+196608K ........ ........ ........ ........ 47% 1.63M 2m33s
+229376K ........ ........ ........ ........ 54% 1.61M 2m13s
+262144K ........ ........ ........ ........ 61% 1.62M 1m53s
+294912K ........ ........ ........ ........ 67% 1.28M 96s
+327680K ........ ........ ........ ........ 74% 1.00M 80s
+360448K ........ ........ ........ ........ 81% 1.25M 59s
+393216K ........ ........ ........ ........ 88% 1.31M 38s
+425984K ........ ........ ........ ........ 95% 1.26M 16s
+458752K ........ ........ .......          100% 1.22M=5m29s
+
+2026-04-07 23:15:48 (1.43 MB/s) - ‘./temp_raw/lat_photon_weekly_w324_p305_v001.fits’ saved [494280000/494280000]
+
+Extracting photons to ./flsf_photons/filtered_photons_w324.fits...
+Cleaning up temp file...
+Done with Week 324.
+--------------------------------------------------
+>>> TARGETING WEEK: 325
+Downloading lat_photon_weekly_w325_p305_v001.fits...
+--2026-04-07 23:15:54--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w325_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319697280 (305M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w325_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10% 1.51M 3m1s
+ 32768K ........ ........ ........ ........ 20% 1.54M 2m38s
+ 65536K ........ ........ ........ ........ 31% 1.05M 2m38s
+ 98304K ........ ........ ........ ........ 41% 1.26M 2m15s
+131072K ........ ........ ........ ........ 52% 1.46M 1m49s
+163840K ........ ........ ........ ........ 62% 1.34M 85s
+196608K ........ ........ ........ ........ 73% 1.49M 60s
+229376K ........ ........ ........ ........ 83% 1.55M 36s
+262144K ........ ........ ........ ........ 94% 1.47M 12s
+294912K ........ ........                  100% 1.49M=3m39s
+
+2026-04-07 23:19:33 (1.39 MB/s) - ‘./temp_raw/lat_photon_weekly_w325_p305_v001.fits’ saved [319697280/319697280]
+
+Extracting photons to ./flsf_photons/filtered_photons_w325.fits...
+Cleaning up temp file...
+Done with Week 325.
+--------------------------------------------------
+>>> TARGETING WEEK: 356
+Downloading lat_photon_weekly_w356_p305_v001.fits...
+--2026-04-07 23:19:38--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w356_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326413440 (311M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w356_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 10% 1.12M 4m10s
+ 32768K ........ ........ ........ ........ 20% 1.20M 3m34s
+ 65536K ........ ........ ........ ........ 30% 1.60M 2m49s
+ 98304K ........ ........ ........ ........ 41% 1.54M 2m18s
+131072K ........ ........ ........ ........ 51% 1.69M 1m49s
+163840K ........ ........ ........ ........ 61% 1.68M 83s
+196608K ........ ........ ........ ........ 71% 1.47M 61s
+229376K ........ ........ ........ ........ 82% 1.68M 38s
+262144K ........ ........ ........ ........ 92% 1.67M 16s
+294912K ........ ........ .......          100% 1.67M=3m28s
+
+2026-04-07 23:23:08 (1.50 MB/s) - ‘./temp_raw/lat_photon_weekly_w356_p305_v001.fits’ saved [326413440/326413440]
+
+Extracting photons to ./flsf_photons/filtered_photons_w356.fits...
+Cleaning up temp file...
+Done with Week 356.
+--------------------------------------------------
+>>> TARGETING WEEK: 363
+Downloading lat_photon_weekly_w363_p305_v001.fits...
+--2026-04-07 23:23:13--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w363_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194117760 (185M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w363_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 17% 1.52M 1m41s
+ 32768K ........ ........ ........ ........ 34% 1.67M 76s
+ 65536K ........ ........ ........ ........ 51% 1.58M 56s
+ 98304K ........ ........ ........ ........ 69% 1.39M 37s
+131072K ........ ........ ........ ........ 86% 1.10M 18s
+163840K ........ ........ ........ .       100% 1.52M=2m9s
+
+2026-04-07 23:25:25 (1.43 MB/s) - ‘./temp_raw/lat_photon_weekly_w363_p305_v001.fits’ saved [194117760/194117760]
+
+Extracting photons to ./flsf_photons/filtered_photons_w363.fits...
+Cleaning up temp file...
+Done with Week 363.
+--------------------------------------------------
+>>> TARGETING WEEK: 370
+Downloading lat_photon_weekly_w370_p305_v001.fits...
+--2026-04-07 23:25:29--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w370_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246432960 (235M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w370_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 13% 1.15M 2m56s
+ 32768K ........ ........ ........ ........ 27% 1.48M 2m12s
+ 65536K ........ ........ ........ ........ 40% 1.36M 1m46s
+ 98304K ........ ........ ........ ........ 54% 1.32M 81s
+131072K ........ ........ ........ ........ 68% 1.35M 57s
+163840K ........ ........ ........ ........ 81%  863K 36s
+196608K ........ ........ ........ ........ 95% 1.07M 9s
+229376K ........ ...                       100% 1.26M=3m18s
+
+2026-04-07 23:28:51 (1.19 MB/s) - ‘./temp_raw/lat_photon_weekly_w370_p305_v001.fits’ saved [246432960/246432960]
+
+Extracting photons to ./flsf_photons/filtered_photons_w370.fits...
+Cleaning up temp file...
+Done with Week 370.
+--------------------------------------------------
+>>> TARGETING WEEK: 375
+Downloading lat_photon_weekly_w375_p305_v001.fits...
+--2026-04-07 23:28:53--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w375_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178632000 (170M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w375_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18% 1.39M 1m40s
+ 32768K ........ ........ ........ ........ 37% 1.42M 76s
+ 65536K ........ ........ ........ ........ 56% 1.29M 54s
+ 98304K ........ ........ ........ ........ 75% 1.21M 32s
+131072K ........ ........ ........ ........ 93%  919K 9s
+163840K ........ ..                        100% 1.19M=2m21s
+
+2026-04-07 23:31:18 (1.21 MB/s) - ‘./temp_raw/lat_photon_weekly_w375_p305_v001.fits’ saved [178632000/178632000]
+
+Extracting photons to ./flsf_photons/filtered_photons_w375.fits...
+Cleaning up temp file...
+Done with Week 375.
+--------------------------------------------------
+>>> TARGETING WEEK: 381
+Downloading lat_photon_weekly_w381_p305_v001.fits...
+--2026-04-07 23:31:20--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w381_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181699200 (173M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w381_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 18%  959K 2m31s
+ 32768K ........ ........ ........ ........ 36%  653K 2m24s
+ 65536K ........ ........ ........ ........ 55%  680K 1m47s
+ 98304K ........ ........ ........ ........ 73% 1.44M 55s
+131072K ........ ........ ........ ........ 92% 1.12M 15s
+163840K ........ .....                     100%  825K=3m20s
+
+2026-04-07 23:34:43 (888 KB/s) - ‘./temp_raw/lat_photon_weekly_w381_p305_v001.fits’ saved [181699200/181699200]
+
+Extracting photons to ./flsf_photons/filtered_photons_w381.fits...
+Cleaning up temp file...
+Done with Week 381.
+--------------------------------------------------
+>>> TARGETING WEEK: 482
+Downloading lat_photon_weekly_w482_p305_v001.fits...
+--2026-04-07 23:34:46--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w482_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206115840 (197M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w482_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 16%  873K 3m13s
+ 32768K ........ ........ ........ ........ 32%  818K 2m41s
+ 65536K ........ ........ ........ ........ 48%  605K 2m18s
+ 98304K ........ ........ ........ ........ 65%  512K 1m45s
+131072K ........ ........ ........ ........ 81%  589K 57s
+163840K ........ ........ ........ ........ 97% 1.14M 7s
+196608K ....                               100% 1021K=4m44s
+
+2026-04-07 23:39:35 (708 KB/s) - ‘./temp_raw/lat_photon_weekly_w482_p305_v001.fits’ saved [206115840/206115840]
+
+Extracting photons to ./flsf_photons/filtered_photons_w482.fits...
+Cleaning up temp file...
+Done with Week 482.
+--------------------------------------------------
+>>> TARGETING WEEK: 483
+Downloading lat_photon_weekly_w483_p305_v001.fits...
+--2026-04-07 23:39:38--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w483_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226209600 (216M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w483_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 14% 1.11M 2m45s
+ 32768K ........ ........ ........ ........ 29% 1.31M 2m6s
+ 65536K ........ ........ ........ ........ 44% 1.22M 99s
+ 98304K ........ ........ ........ ........ 59%  834K 81s
+131072K ........ ........ ........ ........ 74% 1.45M 49s
+163840K ........ ........ ........ ........ 89%  998K 21s
+196608K ........ ........ .......          100%  822K=3m23s
+
+2026-04-07 23:43:05 (1.06 MB/s) - ‘./temp_raw/lat_photon_weekly_w483_p305_v001.fits’ saved [226209600/226209600]
+
+Extracting photons to ./flsf_photons/filtered_photons_w483.fits...
+Cleaning up temp file...
+Done with Week 483.
+--------------------------------------------------
+>>> TARGETING WEEK: 506
+Downloading lat_photon_weekly_w506_p305_v001.fits...
+--2026-04-07 23:43:07--  https://heasarc.gsfc.nasa.gov/FTP/fermi/data/lat/weekly/photon/lat_photon_weekly_w506_p305_v001.fits
+Resolving heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)... 129.164.179.23, 2001:4d0:2310:150::23
+Connecting to heasarc.gsfc.nasa.gov (heasarc.gsfc.nasa.gov)|129.164.179.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206585280 (197M) [application/fits]
+Saving to: ‘./temp_raw/lat_photon_weekly_w506_p305_v001.fits’
+
+     0K ........ ........ ........ ........ 16% 1.39M 1m59s
+ 32768K ........ ........ ........ ........ 32% 1.64M 89s
+ 65536K ........ ........ ........ ........ 48% 1.71M 64s
+ 98304K ........ ........ ........ ........ 64% 1.68M 43s
+131072K ........ ........ ........ ........ 81% 1.69M 23s
+163840K ........ ........ ........ ........ 97% 1.67M 3s
+196608K .....                              100% 1.66M=2m2s
+
+2026-04-07 23:45:12 (1.62 MB/s) - ‘./temp_raw/lat_photon_weekly_w506_p305_v001.fits’ saved [206585280/206585280]
+
+Extracting photons to ./flsf_photons/filtered_photons_w506.fits...
+Cleaning up temp file...
+Done with Week 506.
