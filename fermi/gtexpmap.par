@@ -1,12 +1,12 @@
 #
 # $Header: /nfs/slac/g/glast/ground/cvs/Likelihood/pfiles/gtexpmap.par,v 1.19 2013/08/26 22:55:32 jchiang Exp $
 #
-evfile,f,a,"temp_template_w082.fits",,,"Event data file"
+evfile,f,a,"temp_template_w121.fits",,,"Event data file"
 evtable,s,h,"EVENTS",,,"Event data extension"
-scfile,f,a,"./temp_ft2/lat_spacecraft_weekly_w082_p310_v001.fits",,,"Spacecraft data file"
+scfile,f,a,"./temp_ft2/lat_spacecraft_weekly_w121_p310_v001.fits",,,"Spacecraft data file"
 sctable,s,h,"SC_DATA",,,"Spacecraft data extension"
-expcube,f,a,"./lt_cubes/ltcube_w082_fixed.fits",,,"Exposure hypercube file"
-outfile,f,a,"./exposure_data/expmap_w082.fits",,,"output file name"
+expcube,f,a,"./lt_cubes/ltcube_w121_fixed.fits",,,"Exposure hypercube file"
+outfile,f,a,"./exposure_data/expmap_w121.fits",,,"output file name"
 irfs,s,a,"P8R3_SOURCE_V3",,,"Response functions"
 evtype,i,h,INDEF,,,"Event type selections"
 srcrad,r,a,20,,,Radius of the source region (in degrees)

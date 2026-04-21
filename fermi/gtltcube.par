@@ -1,11 +1,11 @@
 # @file gtltcube.par
 # $Header: /nfs/slac/g/glast/ground/cvs/ScienceTools-scons/Likelihood/pfiles/gtltcube.par,v 1.7 2011/04/19 17:09:27 jchiang Exp $
 #
-evfile,s,a,"./flsf_photons/filtered_photons_w82.fits",,,"Event data file"
+evfile,s,a,"./flsf_photons/filtered_photons_w121.fits",,,"Event data file"
 evtable,s,h,"EVENTS",,,"Event data extension"
-scfile,f,a,"./temp_ft2/lat_spacecraft_weekly_w082_p310_v001.fits",,,"Spacecraft data file"
+scfile,f,a,"./temp_ft2/lat_spacecraft_weekly_w121_p310_v001.fits",,,"Spacecraft data file"
 sctable,s,h,"SC_DATA",,,"Spacecraft data extension"
-outfile,f,a,"./lt_cubes/ltcube_w082_fixed.fits",,,"Output file"
+outfile,f,a,"./lt_cubes/ltcube_w121_fixed.fits",,,"Output file"
 dcostheta,r,a,0.025,0.,1.,"Step size in cos(theta)"
 binsz,r,a,1,,,"Pixel size (degrees)"
 phibins,i,h,0,,,"Number of phi bins"

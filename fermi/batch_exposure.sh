@@ -53,8 +53,8 @@ for file in ${PHOTON_DIR}/filtered_photons_w*.fits; do
     echo "Processing Week $padded_week..."
     echo "=================================================="
 
-    SC_FILE="${SC_DIR}/lat_spacecraft_weekly_w${padded_week}_p310_v001.fits"
-    
+    SC_FILE=$(ls ${SC_DIR}/lat_spacecraft_weekly_w${padded_week}_*.fits 2>/dev/null | head -n 1)
+
     # Failsafe: Check if Spacecraft file exists
     if [ ! -f "$SC_FILE" ]; then
         echo "ERROR: Spacecraft file $SC_FILE not found! Skipping..."
@@ -65,6 +65,12 @@ for file in ${PHOTON_DIR}/filtered_photons_w*.fits; do
     TEMPLATE="temp_template_w${padded_week}.fits"
     LTCUBE="${LTCUBE_DIR}/ltcube_w${padded_week}_fixed.fits"
     EXPMAP="${EXPMAP_DIR}/expmap_w${padded_week}.fits"
+
+# Skip if we already generated it!
+    if [ -f "$EXPMAP" ]; then
+        echo ">>> Week $padded_week already finished. Skipping to save time..."
+        continue
+    fi
 
     # Step 1: Create a fresh copy of the photon file to act as the template
     cp "$file" "$TEMPLATE"
