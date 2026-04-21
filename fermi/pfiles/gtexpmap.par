@@ -1,0 +1,26 @@
+#
+# $Header: /nfs/slac/g/glast/ground/cvs/Likelihood/pfiles/gtexpmap.par,v 1.19 2013/08/26 22:55:32 jchiang Exp $
+#
+evfile,f,a,"master_template.fits",,,"Event data file"
+evtable,s,h,"EVENTS",,,"Event data extension"
+scfile,f,a,"./temp_ft2/lat_spacecraft_weekly_w506_p310_v001.fits",,,"Spacecraft data file"
+sctable,s,h,"SC_DATA",,,"Spacecraft data extension"
+expcube,f,a,"./lt_cubes/ltcube_w506.fits",,,"Exposure hypercube file"
+outfile,f,a,"./exposure_data/expmap_w506.fits",,,"output file name"
+irfs,s,a,"P8R3_SOURCE_V3",,,"Response functions"
+evtype,i,h,INDEF,,,"Event type selections"
+srcrad,r,a,20,,,Radius of the source region (in degrees)
+nlong,i,a,120,2,1000,Number of longitude points
+nlat,i,a,120,2,1000,Number of latitude points
+nenergies,i,a,20,2,100,Number of energies
+submap,b,h,no,,,"Compute submap?"
+nlongmin,i,h,0,,,"minimum longitude index"
+nlongmax,i,h,0,,,"maximum longitude index"
+nlatmin,i,h,0,,,"minimum latitude index"
+nlatmax,i,h,0,,,"minimum latitude index"
+
+chatter,i,h,2,0,4,Output verbosity
+clobber,        b, h, yes, , , "Overwrite existing output files"
+debug,          b, h, no, , , "Activate debugging mode"
+gui,            b, h, no, , , "GUI mode activated"
+mode,           s, h, "ql", , , "Mode of automatic parameters"
